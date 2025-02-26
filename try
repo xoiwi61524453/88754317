@@ -1,1 +1,2 @@
+PreparedStatement ps = con.prepareStatement("select SYSDATE from dual");
 hello world
