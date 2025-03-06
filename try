@@ -1,3 +1,4 @@
+while (rs.next())
 BufferedWriter out = null;
 test.init();
 out.write(”aString”);
