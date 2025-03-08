@@ -1,3 +1,4 @@
+public class OracleJdbcTest
 while (rs.next())
 BufferedWriter out = null;
 test.init();
