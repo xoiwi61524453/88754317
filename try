@@ -1,3 +1,4 @@
+con=DriverManager.getConnection(url, userName, password);
 try {
 public class OracleJdbcTest
 while (rs.next())
