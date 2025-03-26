@@ -1,3 +1,4 @@
+OracleJdbcTest test = new OracleJdbcTest();
 // do the thing you do
 while (rs.next())
 test.init();
