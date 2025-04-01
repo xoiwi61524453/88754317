@@ -1,3 +1,4 @@
+public static void main(String[] args)
 if (out != null) {
 OracleJdbcTest test = new OracleJdbcTest();
 ps.close();
